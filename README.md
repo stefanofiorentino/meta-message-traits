@@ -1,5 +1,4 @@
-meta-example
-============
+meta-message-traits
+===================
 
-Yocto/OpenEmbedded layer showing example recipe
-# meta-message-traits
+Yocto/OpenEmbedded layer showing the example recipe message-traits
